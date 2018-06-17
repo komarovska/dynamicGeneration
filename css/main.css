@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    line-height: 100px;
+}
+
+.btn-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.checkbox {
+    float: left;
+    margin: 5px;
+}
+
